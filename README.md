@@ -5,8 +5,6 @@ Advent of Code
 
 2019
 
-Brian Hagerty
-
 ❄🎅❄
 
 ---
